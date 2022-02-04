@@ -1,6 +1,6 @@
 **Nickname Generator or Pseudonym Generator**
 
-You will find a file that onyl needs to be run. 
+You will find a file that only needs to be run. 
 
 A file will be created with all the list of syllabes possible and then an arrangement based on your wishes. 
 
