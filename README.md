@@ -1,4 +1,4 @@
-Nickname Generator or Pseudonym Generator
+**Nickname Generator or Pseudonym Generator**
 
 You will find a file that onyl needs to be run. 
 
